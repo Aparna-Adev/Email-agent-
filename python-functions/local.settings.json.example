@@ -1,0 +1,21 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "TENANT_ID": "<tenant-id>",
+    "CLIENT_ID": "<client-id>",
+    "CLIENT_SECRET": "<client-secret>",
+    "DB_SERVER": "localhost",
+    "DB_NAME": "AgentsConfiguration",
+    "DB_USER": "<database-user>",
+    "DB_PASSWORD": "<database-password>",
+    "MAILBOX_USER": "<mailbox-user>",
+    "AZURE_OPENAI_API_KEY": "<azure-openai-api-key>",
+    "AZURE_OPENAI_ENDPOINT": "<azure-openai-endpoint>",
+    "AZURE_OPENAI_DEPLOYMENT_NAME": "<deployment-name>",
+    "AZURE_OPENAI_API_VERSION": "<api-version>",
+    "USE_LLM_EMAIL_INTELLIGENCE": "true",
+    "TEAMS_NOTIFICATION_BATCH_LIMIT": "50"
+  }
+}

@@ -1,0 +1,28 @@
+Frontend
+
+Module purpose: React + Vite UI.
+
+cd "C:\Users\acer\OneDrive\Desktop\Agent Configuration Screen\frontend"
+npm install
+npm run dev
+
+
+Backend
+
+Module purpose: Express API + Azure SQL connection.
+
+cd "C:\Users\acer\OneDrive\Desktop\Agent Configuration Screen\backend"
+npm install
+npm start
+
+
+cd C:\inetpub\wwwroot\SlashPythonAPI
+venv\Scripts\activate
+func start
+azurite
+ 
+Save the above mentioned commands
+ 
+
+
+

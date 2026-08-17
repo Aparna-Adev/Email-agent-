@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# Build and generated output
+dist/
+build/
+outputs/
+validation_results/
+*.log
+
+# Local secrets and machine-specific settings
+.env
+.env.*
+local.settings.json
+
+# Archives and database exports are kept out of Git unless reviewed first.
+*.zip
+*.bak
+db_script.sql
+
+# Python cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/

@@ -1,0 +1,13 @@
+﻿azure-functions==1.21.3
+certifi==2026.5.20
+cffi==2.0.0
+charset-normalizer==3.4.7
+cryptography==48.0.0
+idna==3.17
+msal==1.37.0
+openai==2.36.0
+pycparser==3.0
+PyJWT==2.13.0
+pyodbc==5.3.0
+requests==2.34.2
+urllib3==2.7.0
